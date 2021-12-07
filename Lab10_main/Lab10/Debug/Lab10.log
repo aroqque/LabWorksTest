@@ -1,0 +1,5 @@
+﻿  Lab10.cpp
+C:\Users\Никита\source\Repos\LabWorks\Lab10_main\Lab10\Lab10.cpp(15,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Никита\source\Repos\LabWorks\Lab10_main\Lab10\Lab10.cpp(106,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Никита\source\Repos\LabWorks\Lab10_main\Lab10\Lab10.cpp(100): warning C4715: fun: значение возвращается не при всех путях выполнения
+  Lab10.vcxproj -> C:\Users\Никита\source\Repos\LabWorks\Lab10_main\Debug\Lab10.exe

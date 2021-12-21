@@ -1,0 +1,5 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\Никита\source\Repos\ConsoleApplication2\ConsoleApplication2.cpp(25,9): warning C4101: temp: неиспользованная локальная переменная
+C:\Users\Никита\source\Repos\ConsoleApplication2\ConsoleApplication2.cpp(345,6): warning C4101: i: неиспользованная локальная переменная
+C:\Users\Никита\source\Repos\ConsoleApplication2\ConsoleApplication2.cpp(464,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication2.vcxproj -> C:\Users\Никита\source\Repos\ConsoleApplication2\Debug\ConsoleApplication2.exe
